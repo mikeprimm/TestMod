@@ -1,0 +1,10 @@
+name: TestMod_BUKKIT5319
+version: 0.1
+main: com.mikeprimm.BUKKIT5319.TestMod
+authors: [ mikeprimm ]
+commands:
+  dumpvalue:
+    description: Display values for player's current chunk, and in snapshot of it
+  setvalue:
+    description: Set value for player's current chunk
+    
